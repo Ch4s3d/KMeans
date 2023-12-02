@@ -1,0 +1,3 @@
+Implementar, orientada a objetos, la técnica de clasificación Kmeans a través del lenguaje que te resulte más conveniente.
+1. Si se implementa el algoritmo, desde cero, la assignment se califica sobre el 100% del puntaje.
+2. Si se emplea alguna librería, framework y/o módulo que cuenta con la preimplementación del Kmeans, la assignment se califica sobre el 90% del puntaje.
